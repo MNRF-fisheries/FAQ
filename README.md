@@ -27,4 +27,8 @@ git push origin master # push local copy/repo to remote
 
 ```
 
+For supplemental information on installing git, synchronizing with RStudio, or getting RStudio to synchronize with GitHub, please visit http://happygitwithr.com/. 
+
+To further understand the GitHub 'workflow', please visit https://guides.github.com/introduction/flow/.
+
 ### TeX Distrubution
